@@ -1,0 +1,5 @@
+claim_id,member_id,provider_id,service_date,diagnosis_code,procedure_code,paid_amount
+C1001,M001,P01,2023-01-12,E11.9,99213,125.50
+C1002,M002,P02,2023-01-15,I10,93000,210.00
+C1003,M001,P03,2023-02-01,E78.5,80050,89.75
+C1004,M003,P01,2023-02-10,J45.909,94640,175.00

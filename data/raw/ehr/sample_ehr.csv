@@ -1,0 +1,5 @@
+encounter_id,member_id,visit_date,diagnosis_code,lab_name,lab_value,lab_unit
+E9001,M001,2023-01-12,E11.9,HbA1c,7.2,percent
+E9002,M002,2023-01-15,I10,Creatinine,1.0,mg/dL
+E9003,M001,2023-02-01,E78.5,LDL,132,mg/dL
+E9004,M003,2023-02-10,J45.909,FENO,35,ppb
